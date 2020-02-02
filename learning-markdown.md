@@ -2,4 +2,4 @@
 
 ### Also I can open any link i want ,for example i want to open YOUTUBE from ![HERE](https://www.youtube.com/)
 
-### You can use an emojis logo like this :scream:
+### You can use an emojis logo like this :happy:
