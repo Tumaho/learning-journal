@@ -1,3 +1,3 @@
 # About Markdown 
 
-###_ i can use a Bold style using"* *" _
+_ i can use a Bold style using"* *" _
