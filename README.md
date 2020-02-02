@@ -6,6 +6,6 @@
 
 ###-and for Strikethrough like this ~~STRIKE~~
 
-###- You can quote text like this >OBADA
+###- You can use an emojis logo like this :scream:
 
 ###- And finally you use a link to open it by name like this [CLICK HERE](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjBp7u21bLnAhXVEcAKHYklCQYQPAgH)
