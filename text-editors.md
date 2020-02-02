@@ -1,6 +1,6 @@
 # Text Editors
 
-### The **text editors** is a software that you can use it after *downloaded* or *online* that help us to write and manage our code , in generally the **text editor** one of the most important tools in web developing :muscle:
+### The **text editors** is a software that you can use it after *downloaded* or *online* that help us to write and manage our code , in generally the **text editor** one of the most important tools in web developing 
 
 
 ### Some of The most important features of text editors:
