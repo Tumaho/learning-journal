@@ -1,15 +1,9 @@
-# About Markdown 
+# Learning Journal
 
-### i can use a **Bold** style using double stars in two sides
+## Here is some topics that we learned 
 
-### if you want to make font style *italic* just using single stars 
-
-### and for Strikethrough like this ~~STRIKE~~
-
-### You can use an emojis logo like this :scream:
-
-### And you use a GOOGLE link to open it by name like this [CLICK HERE](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjBp7u21bLnAhXVEcAKHYklCQYQPAgH)
-
-### finally we can add an image ![Nature](https://www.saugatrajsigdel.com.np/wp-content/uploads/2019/06/waterfall-img.jpg)
-
-### To ToToTo
+**Topic** | **Link** 
+--- | --- 
+MarkDown | [CLICK!](https://tumaho.github.io/learning-journal/learning-markdown)
+--- | ---
+Text Editors | [CLICK!](https://tumaho.github.io/learning-journal/text-editors)
