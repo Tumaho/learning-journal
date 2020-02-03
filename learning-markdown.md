@@ -7,12 +7,7 @@
 ### and for Strikethrough like this 
 ~~STRIKE~~
 
-### You can use an emojis logo like this 
-:scream:
-
-
-### I can open any link i want ,for example i want to open YOUTUBE from
- ![HERE](https://www.youtube.com/)
+### I can open any link i want ,for example i want to open KOOORA from [HERE](https://www.kooora.com/)
 
 ### For unorder lists i can do this 
 -Cat
