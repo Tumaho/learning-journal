@@ -1,7 +1,5 @@
 ### I can open any link i want ,for example i want to open YOUTUBE from ![HERE](https://www.youtube.com/)
 
-### You can use an emojis logo like this :stuck_out_tongue_winking_eye:
-
 ### For unorder lists i can do this 
 -Cat
 
@@ -16,4 +14,4 @@
 
 3.Snake
 
-### Also I can add an image ![image](https://media.mnn.com/assets/images/2018/04/sunset_through_oak_tree.jpg.653x0_q80_crop-smart.jpg)
+
