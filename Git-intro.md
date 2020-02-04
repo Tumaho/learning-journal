@@ -6,4 +6,12 @@
 
 ## The main states of files in Git:
 
-[states](GitS.png) 
+![states](GitS.png) 
+
+## Some command used in Git:
+
+- git add . (added my project and prepare it)
+- git status (to know the status of my transaction)
+- git commit -m" " (to commit your project with a message)
+- git push origin master (to push the project into the github)
+- git pull origin master (to pull the project from the github)
