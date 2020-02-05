@@ -15,15 +15,15 @@
 
 ## How to write a scripts?
 
-### To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it:
-
-1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE
-
-2. EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE 
+### To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
 
 ## Expressions
 
-### An expression evaluates into (results in) a single value. Broadly speaking there are two types of expressions. 
+### An expression evaluates into (results in) a single value. Broadly speaking there are two types of expressions:
+
+* EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE
+
+* EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE 
 
 ## Operators
 
